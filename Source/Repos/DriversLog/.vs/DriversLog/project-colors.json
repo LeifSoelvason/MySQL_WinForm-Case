@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "853aa801-d5a0-4de3-8377-b93eb6b40fa7": {
+      "ProjectGuid": "853aa801-d5a0-4de3-8377-b93eb6b40fa7",
+      "DisplayName": "DriversLog",
+      "ColorIndex": 0
+    },
+    "d5514d81-cab1-4cab-bb78-4dea59d7cf0f": {
+      "ProjectGuid": "d5514d81-cab1-4cab-bb78-4dea59d7cf0f",
+      "DisplayName": "MyLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

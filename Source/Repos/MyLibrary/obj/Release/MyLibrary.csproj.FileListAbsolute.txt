@@ -1,0 +1,18 @@
+C:\Users\Administrator\Source\Repos\MyLibrary\bin\Release\MyLibrary.dll
+C:\Users\Administrator\Source\Repos\MyLibrary\bin\Release\MyLibrary.pdb
+C:\Users\Administrator\Source\Repos\MyLibrary\bin\Release\Dapper.dll
+C:\Users\Administrator\Source\Repos\MyLibrary\bin\Release\Dapper.xml
+C:\Users\Administrator\Source\Repos\MyLibrary\obj\Release\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\MyLibrary\obj\Release\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\MyLibrary\obj\Release\MyLibrary.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\MyLibrary\obj\Release\MyLibrary.dll
+C:\Users\Administrator\Source\Repos\MyLibrary\obj\Release\MyLibrary.pdb
+C:\Users\Administrator\Desktop\BackUp DriversLog V3\Source\Repos\MyLibrary\bin\Release\MyLibrary.dll
+C:\Users\Administrator\Desktop\BackUp DriversLog V3\Source\Repos\MyLibrary\bin\Release\MyLibrary.pdb
+C:\Users\Administrator\Desktop\BackUp DriversLog V3\Source\Repos\MyLibrary\bin\Release\Dapper.dll
+C:\Users\Administrator\Desktop\BackUp DriversLog V3\Source\Repos\MyLibrary\bin\Release\Dapper.xml
+C:\Users\Administrator\Desktop\BackUp DriversLog V3\Source\Repos\MyLibrary\obj\Release\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\BackUp DriversLog V3\Source\Repos\MyLibrary\obj\Release\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BackUp DriversLog V3\Source\Repos\MyLibrary\obj\Release\MyLibrary.csproj.CopyComplete
+C:\Users\Administrator\Desktop\BackUp DriversLog V3\Source\Repos\MyLibrary\obj\Release\MyLibrary.dll
+C:\Users\Administrator\Desktop\BackUp DriversLog V3\Source\Repos\MyLibrary\obj\Release\MyLibrary.pdb
