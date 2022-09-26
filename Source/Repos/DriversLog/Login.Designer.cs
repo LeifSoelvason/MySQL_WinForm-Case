@@ -59,7 +59,7 @@
             this.txt_UserName.Location = new System.Drawing.Point(72, 20);
             this.txt_UserName.Name = "txt_UserName";
             this.txt_UserName.Size = new System.Drawing.Size(156, 20);
-            this.txt_UserName.TabIndex = 1;
+            this.txt_UserName.TabIndex = 0;
             // 
             // txt_Password
             // 
@@ -84,7 +84,7 @@
             this.btn_CLose.Location = new System.Drawing.Point(153, 96);
             this.btn_CLose.Name = "btn_CLose";
             this.btn_CLose.Size = new System.Drawing.Size(75, 23);
-            this.btn_CLose.TabIndex = 2;
+            this.btn_CLose.TabIndex = 3;
             this.btn_CLose.Text = "Close";
             this.btn_CLose.UseVisualStyleBackColor = true;
             this.btn_CLose.Click += new System.EventHandler(this.btn_CLose_Click);

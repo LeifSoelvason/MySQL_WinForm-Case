@@ -22,6 +22,9 @@ namespace DriversLog
 
         private void btn_Login_Click(object sender, EventArgs e)
         {
+            txt_UserName.Select();
+            
+
             DataAccess_User db = new DataAccess_User();
 
             var output = db.PasswordValidation(txt_UserName.Text, txt_Password.Text);          

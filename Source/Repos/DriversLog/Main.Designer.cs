@@ -51,7 +51,7 @@
             this.btn_DriversLog_Menu.Location = new System.Drawing.Point(12, 98);
             this.btn_DriversLog_Menu.Name = "btn_DriversLog_Menu";
             this.btn_DriversLog_Menu.Size = new System.Drawing.Size(109, 52);
-            this.btn_DriversLog_Menu.TabIndex = 0;
+            this.btn_DriversLog_Menu.TabIndex = 1;
             this.btn_DriversLog_Menu.Text = "Order Menu";
             this.btn_DriversLog_Menu.UseVisualStyleBackColor = true;
             this.btn_DriversLog_Menu.Click += new System.EventHandler(this.btn_DriversLog_Menu_Click);

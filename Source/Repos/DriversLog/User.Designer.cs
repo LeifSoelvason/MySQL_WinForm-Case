@@ -64,7 +64,7 @@
             this.dataGridView1.Location = new System.Drawing.Point(3, 263);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(641, 175);
-            this.dataGridView1.TabIndex = 0;
+            this.dataGridView1.TabIndex = 14;
             // 
             // label1
             // 
@@ -73,7 +73,7 @@
             this.label1.Location = new System.Drawing.Point(22, 18);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(66, 16);
-            this.label1.TabIndex = 1;
+            this.label1.TabIndex = 0;
             this.label1.Text = "Firstname";
             // 
             // label2
@@ -83,7 +83,7 @@
             this.label2.Location = new System.Drawing.Point(22, 47);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(66, 16);
-            this.label2.TabIndex = 1;
+            this.label2.TabIndex = 0;
             this.label2.Text = "Lastname";
             // 
             // label3
@@ -93,7 +93,7 @@
             this.label3.Location = new System.Drawing.Point(22, 76);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(132, 16);
-            this.label3.TabIndex = 1;
+            this.label3.TabIndex = 0;
             this.label3.Text = "Licenseplate number";
             // 
             // txt_Firstname1
@@ -101,14 +101,14 @@
             this.txt_Firstname1.Location = new System.Drawing.Point(157, 17);
             this.txt_Firstname1.Name = "txt_Firstname1";
             this.txt_Firstname1.Size = new System.Drawing.Size(134, 20);
-            this.txt_Firstname1.TabIndex = 2;
+            this.txt_Firstname1.TabIndex = 0;
             // 
             // txt_Lastname1
             // 
             this.txt_Lastname1.Location = new System.Drawing.Point(157, 46);
             this.txt_Lastname1.Name = "txt_Lastname1";
             this.txt_Lastname1.Size = new System.Drawing.Size(134, 20);
-            this.txt_Lastname1.TabIndex = 2;
+            this.txt_Lastname1.TabIndex = 1;
             // 
             // txt_Licenseplatenumber1
             // 
@@ -122,7 +122,7 @@
             this.txt_Lastname3.Location = new System.Drawing.Point(494, 235);
             this.txt_Lastname3.Name = "txt_Lastname3";
             this.txt_Lastname3.Size = new System.Drawing.Size(150, 20);
-            this.txt_Lastname3.TabIndex = 3;
+            this.txt_Lastname3.TabIndex = 11;
             // 
             // label4
             // 
@@ -138,7 +138,7 @@
             this.btn_Search.Location = new System.Drawing.Point(656, 228);
             this.btn_Search.Name = "btn_Search";
             this.btn_Search.Size = new System.Drawing.Size(69, 33);
-            this.btn_Search.TabIndex = 5;
+            this.btn_Search.TabIndex = 12;
             this.btn_Search.Text = "Search";
             this.btn_Search.UseVisualStyleBackColor = true;
             this.btn_Search.Click += new System.EventHandler(this.btn_Search_Click);
@@ -148,7 +148,7 @@
             this.btn_Insert.Location = new System.Drawing.Point(222, 103);
             this.btn_Insert.Name = "btn_Insert";
             this.btn_Insert.Size = new System.Drawing.Size(69, 33);
-            this.btn_Insert.TabIndex = 6;
+            this.btn_Insert.TabIndex = 3;
             this.btn_Insert.Text = "Insert";
             this.btn_Insert.UseVisualStyleBackColor = true;
             this.btn_Insert.Click += new System.EventHandler(this.btn_Insert_Click);
@@ -158,7 +158,7 @@
             this.btn_Update.Location = new System.Drawing.Point(547, 136);
             this.btn_Update.Name = "btn_Update";
             this.btn_Update.Size = new System.Drawing.Size(69, 33);
-            this.btn_Update.TabIndex = 6;
+            this.btn_Update.TabIndex = 8;
             this.btn_Update.Text = "Update";
             this.btn_Update.UseVisualStyleBackColor = true;
             this.btn_Update.Click += new System.EventHandler(this.btn_Update_Click);
@@ -168,7 +168,7 @@
             this.btn_Delete.Location = new System.Drawing.Point(826, 51);
             this.btn_Delete.Name = "btn_Delete";
             this.btn_Delete.Size = new System.Drawing.Size(69, 33);
-            this.btn_Delete.TabIndex = 6;
+            this.btn_Delete.TabIndex = 10;
             this.btn_Delete.Text = "Delete";
             this.btn_Delete.UseVisualStyleBackColor = true;
             this.btn_Delete.Click += new System.EventHandler(this.btn_Delete_Click);
@@ -188,7 +188,7 @@
             this.txt_UserID1.Location = new System.Drawing.Point(490, 20);
             this.txt_UserID1.Name = "txt_UserID1";
             this.txt_UserID1.Size = new System.Drawing.Size(126, 20);
-            this.txt_UserID1.TabIndex = 2;
+            this.txt_UserID1.TabIndex = 4;
             // 
             // label6
             // 
@@ -225,21 +225,21 @@
             this.txt_Firstname2.Location = new System.Drawing.Point(490, 48);
             this.txt_Firstname2.Name = "txt_Firstname2";
             this.txt_Firstname2.Size = new System.Drawing.Size(126, 20);
-            this.txt_Firstname2.TabIndex = 2;
+            this.txt_Firstname2.TabIndex = 5;
             // 
             // txt_Lastname2
             // 
             this.txt_Lastname2.Location = new System.Drawing.Point(490, 79);
             this.txt_Lastname2.Name = "txt_Lastname2";
             this.txt_Lastname2.Size = new System.Drawing.Size(126, 20);
-            this.txt_Lastname2.TabIndex = 2;
+            this.txt_Lastname2.TabIndex = 6;
             // 
             // txt_Licenseplatenumber2
             // 
             this.txt_Licenseplatenumber2.Location = new System.Drawing.Point(490, 110);
             this.txt_Licenseplatenumber2.Name = "txt_Licenseplatenumber2";
             this.txt_Licenseplatenumber2.Size = new System.Drawing.Size(126, 20);
-            this.txt_Licenseplatenumber2.TabIndex = 2;
+            this.txt_Licenseplatenumber2.TabIndex = 7;
             // 
             // label9
             // 
@@ -256,14 +256,14 @@
             this.txt_UserID2.Location = new System.Drawing.Point(769, 20);
             this.txt_UserID2.Name = "txt_UserID2";
             this.txt_UserID2.Size = new System.Drawing.Size(126, 20);
-            this.txt_UserID2.TabIndex = 2;
+            this.txt_UserID2.TabIndex = 9;
             // 
             // btn_ListAll
             // 
             this.btn_ListAll.Location = new System.Drawing.Point(656, 263);
             this.btn_ListAll.Name = "btn_ListAll";
             this.btn_ListAll.Size = new System.Drawing.Size(69, 33);
-            this.btn_ListAll.TabIndex = 7;
+            this.btn_ListAll.TabIndex = 13;
             this.btn_ListAll.Text = "List All";
             this.btn_ListAll.UseVisualStyleBackColor = true;
             this.btn_ListAll.Click += new System.EventHandler(this.btn_ListAll_Click);

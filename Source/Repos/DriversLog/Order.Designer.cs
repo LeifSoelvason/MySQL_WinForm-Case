@@ -49,7 +49,7 @@
             this.dataGridView1.Location = new System.Drawing.Point(12, 207);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(780, 235);
-            this.dataGridView1.TabIndex = 0;
+            this.dataGridView1.TabIndex = 7;
             // 
             // label1
             // 
@@ -58,7 +58,7 @@
             this.label1.Location = new System.Drawing.Point(38, 39);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(49, 15);
-            this.label1.TabIndex = 1;
+            this.label1.TabIndex = 0;
             this.label1.Text = "UserID:";
             // 
             // label2
@@ -68,7 +68,7 @@
             this.label2.Location = new System.Drawing.Point(38, 72);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(29, 15);
-            this.label2.TabIndex = 1;
+            this.label2.TabIndex = 0;
             this.label2.Text = "Km:";
             // 
             // label3
@@ -78,7 +78,7 @@
             this.label3.Location = new System.Drawing.Point(38, 114);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(123, 15);
-            this.label3.TabIndex = 1;
+            this.label3.TabIndex = 0;
             this.label3.Text = "Licenseplatenumber:";
             // 
             // txt_UserID
@@ -86,14 +86,14 @@
             this.txt_UserID.Location = new System.Drawing.Point(165, 37);
             this.txt_UserID.Name = "txt_UserID";
             this.txt_UserID.Size = new System.Drawing.Size(156, 20);
-            this.txt_UserID.TabIndex = 2;
+            this.txt_UserID.TabIndex = 0;
             // 
             // txt_Km
             // 
             this.txt_Km.Location = new System.Drawing.Point(165, 70);
             this.txt_Km.Name = "txt_Km";
             this.txt_Km.Size = new System.Drawing.Size(156, 20);
-            this.txt_Km.TabIndex = 2;
+            this.txt_Km.TabIndex = 1;
             // 
             // txt_Licenseplatenumber
             // 
@@ -117,7 +117,7 @@
             this.btn_Close.Location = new System.Drawing.Point(246, 153);
             this.btn_Close.Name = "btn_Close";
             this.btn_Close.Size = new System.Drawing.Size(75, 23);
-            this.btn_Close.TabIndex = 3;
+            this.btn_Close.TabIndex = 4;
             this.btn_Close.Text = "Close";
             this.btn_Close.UseVisualStyleBackColor = true;
             this.btn_Close.Click += new System.EventHandler(this.btn_Close_Click);
@@ -137,14 +137,14 @@
             this.txt_Search.Location = new System.Drawing.Point(555, 181);
             this.txt_Search.Name = "txt_Search";
             this.txt_Search.Size = new System.Drawing.Size(156, 20);
-            this.txt_Search.TabIndex = 2;
+            this.txt_Search.TabIndex = 5;
             // 
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(717, 178);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 3;
+            this.button1.TabIndex = 6;
             this.button1.Text = "Search";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
